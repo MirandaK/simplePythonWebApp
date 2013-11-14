@@ -13,3 +13,13 @@ an age.  The input is save to a text file to simulate a database.
 The second branch is to a listing page which reads the text 
 files and displays a list of the currently added users.  
 
+To run the web app you will need to have Python 3.3.x or 
+better.  You can get this from http://www.python.org/download/
+then all you need to do is launch it with the command 
+
+    python simpleWebApp.py
+
+Next, in the browser you will be use it with the URI
+
+    http://localhost:8000/index.html
+
